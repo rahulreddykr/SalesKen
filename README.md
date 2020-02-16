@@ -16,7 +16,7 @@ Approaches tried -
 
 1. Spacy word embedding based model similarity
 
-2. Tensorflow hub universal sentence similarity - https://tfhub.dev/google/universal-sentence-encoder/1
+2. Tensorflow hub universal sentence encoder - https://tfhub.dev/google/universal-sentence-encoder/1
 
 3. Bert based sentence transformers - https://github.com/UKPLab/sentence-transformers
 
